@@ -1,2 +1,5 @@
-#Ignoring all .doc files
+#Ignorie all .doc files
 *.doc
+
+# Ignore all .txt files
+*.txt
